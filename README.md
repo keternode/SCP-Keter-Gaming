@@ -1,4 +1,4 @@
-# SCP: Project Unreal
+# SCP: Keter Gaming
  SCP: Project Unreal is an Unreal Engine recreation of the game [SCP: Containment breach](http://scpcbgame.com/)
  
  You can find the source code of SCP: Containment Breach at https://github.com/Regalis11/scpcb.   
